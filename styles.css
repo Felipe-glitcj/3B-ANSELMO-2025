@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #f7e017;
+    background-color: #33f522;
 }
 
 
@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #48cb43;
+    color: #22ee1b;
     font-weight: 600;
 }
 
@@ -79,8 +79,8 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/pngtree-colorful-brazilian-carnival-png-vector-clipart-transparant-background-png-image_2706677.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+        url('img/passista-em-um-desfile-de-carnaval_sapucai.webp') bottom left no-repeat;
+    background-size: 180px 18querda.png0px;
     /* Ajuste o tamanho conforme necessário */
 }
 
@@ -107,12 +107,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/palmeiras-explosion-x1w52o8grx3h8vma.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/9c21af7f014e72dbbaf98da469703941.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
